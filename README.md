@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/LazzianT/LazzianT/blob/main/hehe?raw=true" alt="Hello Buddy Banner" />
+  <img src="https://github.com/LazzianT/LazzianT/blob/main/hehe.png" alt="Hello Buddy Banner" />
 </p>
 
 # Hello Buddy 👋
