@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello Buddy 👋
 
-<!--
-**LazzianT/LazzianT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm still learning...  
+Currently working at some company and coding from another heaven 😄
 
-Here are some ideas to get you started:
+## 🧠 What I'm Learning
+I'm currently focusing on:
+- CodeIgniter 3
+- jQuery
+- SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+- 💻 Still exploring the coding world
+- 🌐 Working with web technologies
+- 🛠️ Building and breaking stuff to learn
+
+## 🛠️ My Skills
+- PHP
+- MySQL
+- SQL Server
+- Bootstrap
+- HTML
+
+---
+
+Thanks for stopping by! Feel free to check out my projects or say hello 🚀
