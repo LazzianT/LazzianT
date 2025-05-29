@@ -1,3 +1,8 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/username/repo-name/blob/main/hehe?raw=true" alt="Hello Buddy Banner" />
+</p>
+
 # Hello Buddy 👋
 
 I'm still learning...  
