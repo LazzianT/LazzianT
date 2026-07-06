@@ -1,31 +1,79 @@
-<!-- Header Banner -->
+<h1 align="center">Hi 👋, I'm Laz</h1>
+
+<h3 align="center">
+Full Stack Developer • Backend Engineer • DevOps Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://github.com/LazzianT/LazzianT/blob/main/hehe.png" alt="Hello Buddy Banner" />
+Building scalable applications with modern technologies.
 </p>
-
-# Hello Buddy 👋
-
-I'm still learning...  
-Currently working at some company and coding from another heaven 😄
-
-## 🧠 What I'm Learning
-I'm currently focusing on:
-- CodeIgniter 3
-- jQuery
-- SQL Server
-
-## 💼 About Me
-- 💻 Still exploring the coding world
-- 🌐 Working with web technologies
-- 🛠️ Building and breaking stuff to learn
-
-## 🛠️ My Skills
-- PHP
-- MySQL
-- SQL Server
-- Bootstrap
-- HTML
 
 ---
 
-Thanks for stopping by! Feel free to check out my projects or say hello 🚀
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🐳 Docker & Portainer
+- ☁️ Linux Server Administration
+- 🛢 SQL Server & MySQL
+- ⚙️ PHP (CodeIgniter), Node.js, Express
+- ⚛ React + TypeScript
+- 📊 Machine Learning Enthusiast
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,react,ts,nodejs,express,docker,linux,mysql,postgres,git,github,vscode,nginx&perline=7"/>
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Contribution
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&column=7"/>
+
+</p>
+
+---
+
+## 📫 Contact
+
+- ✉️ your@email.com
+- 🌐 https://yourwebsite.com
+- 💼 LinkedIn
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
