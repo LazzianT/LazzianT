@@ -137,6 +137,8 @@
 
 <div align="center">
 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=14B8A6&borderColor=14B8A6&bgColor=0D1117" alt="rotating quotes, animated" />
+
   **Open to collaboration & freelance.**  
   [lazzian.alfalah03@gmail.com](mailto:lazzian.alfalah03@gmail.com) · [github.com/LazzianT](https://github.com/LazzianT)
 
