@@ -51,10 +51,7 @@ Day job: a React Native (Expo) mobile client for that same suite, plus SQL Serve
 
 ## How I work
 
-- PRD first: product, then tech stack, then design direction. Docs before code.
-- Spec-driven: SRS written in full Wiegers format, versioned and audited (check BillSync's revision table).
-- Bilingual: I build and write in English and Indonesian.
-- Every project ships with a README, a setup guide, and a typecheck/test script.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=4A5568&width=620&lines=PRD+first+-+product%2C+then+stack%2C+then+design+direction.;Spec-driven+-+Wiegers-format+SRS%2C+versioned+and+audited.;Bilingual+-+I+build+and+write+in+English+and+Indonesian.;Every+project+ships+with+a+README%2C+setup+guide%2C+and+tests." alt="How I work, animated" />
 
 ## Stats
 
