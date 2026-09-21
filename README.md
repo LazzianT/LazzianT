@@ -1,148 +1,73 @@
-<h1 align="center">
-Hi 👋 I'm Laz
-</h1>
+<!--
+  Lazzian Al Falah — GitHub profile README.
+  Lives in a repo named exactly "LazzianT".
+-->
 
-<h3 align="center">
-Full Stack Developer • Backend Engineer • DevOps Enthusiast
-</h3>
+# Lazzian Al Falah
 
-<p align="center">
-Building scalable web applications, automating infrastructure, and solving real-world business problems.
-</p>
+Full-stack developer. I write the PRD, build the backend and the frontend, and ship the thing.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=LazzianT&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 🚀 About Me
-
-- 💻 Full Stack Web Developer
-- ⚙️ Backend Engineer using PHP, Node.js & SQL Server
-- 🐳 Docker, Portainer & Linux Administration
-- ☁️ Reverse Proxy, SSL, Networking & Server Deployment
-- ⚛ React + TypeScript + TailwindCSS
-- 📊 Machine Learning & Data Analytics
-- 🔥 Passionate about building clean, scalable systems
-
----
-
-# 🛠 Tech Stack
-
-### Backend
+![Profile views](https://komarev.com/ghpvc/?username=LazzianT&color=4a5568&style=flat)
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&color=4A5568&width=520&lines=Full-stack+developer;PRD+first,+ship+loud;React+%E2%80%A2+Angular+%E2%80%A2+Expo;EN+%2F+ID+bilingual" alt="Typing animation" />
 </p>
 
-### Frontend
+## Currently working on
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite" />
-</p>
+**BMC mobile client** — React Native + Expo app (expo-router, NativeWind) for an internal business suite: orders, letter numbering, and status monitoring against a SQL Server backend. Slow, steady, shipping on Android.
 
-### Database
+Rebuilding the dashboard layer of **planGantt** — the three-level Gantt with EN/ID toggling.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+## Projects
 
-- Microsoft SQL Server
-- MySQL
-- MariaDB
+**BillSync** — order-to-invoice system. Role-based login, dashboard, payment-proof upload, PDF invoice. Built against a Wiegers-format SRS (see the revision history in the repo: v1.0 → v1.5). 
+[`LazzianT/BillSync`](https://github.com/LazzianT/BillSync)
 
-### DevOps
+**e-calor** — calorie tracker. Log intake and burn; Google Gemini suggests adjustments. React + Express on Supabase, deployed to Vercel + Render.
+[`LazzianT/e-calor`](https://github.com/LazzianT/e-calor)
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,bash,vscode" />
-</p>
+**planGantt** — project planning with a three-level Gantt (task → sub-project → project), bilingual English/Indonesian. Workspace monorepo (shared pkg + API + web).
+[`LazzianT/planGantt`](https://github.com/LazzianT/planGantt)
 
----
+**bizmate** — landing page for a small-business product. React 19, Framer Motion, Tailwind v4.
+[`LazzianT/bizmate`](https://github.com/LazzianT/bizmate)
 
-# 📈 GitHub Statistics
+**bmc-app-backend** — Express API for an internal business suite (orders, letters, monitoring) on MS SQL Server with JWT auth.
+[`LazzianT/bmc-app-backend`](https://github.com/LazzianT/bmc-app-backend)
 
-<p align="center">
+Day job: a React Native (Expo) mobile client for that same suite, plus SQL Server 2022 admin — backups, migrations, restore drills on a local `.bak`.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LazzianT&show_icons=true&theme=tokyonight&hide_border=true"/>
+## Tech I use
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazzianT&layout=compact&theme=tokyonight&hide_border=true"/>
+![icons](https://go-skill-icons.vercel.app/api/icons?i=react,angular,tailwind,vite,javascript,typescript,nodejs,express,mysql,postgresql,supabase,prisma,docker,vercel,git,github&perline=8)
 
-</p>
+- **Web**: React, Angular, Tailwind CSS, Vite, Ionic + Capacitor
+- **Mobile**: React Native + Expo (expo-router, NativeWind)
+- **Backend**: Node.js, Express, TypeScript, JWT
+- **Databases**: SQL Server, PostgreSQL (Supabase), MySQL (Prisma)
+- **AI / cloud**: Gemini API, Vercel, Render, Docker
+- **Legacy**: PHP, XAMPP / Laragon
 
----
+## How I work
 
-# 🔥 GitHub Streak
+- PRD first: product, then tech stack, then design direction. Docs before code.
+- Spec-driven: SRS written in full Wiegers format, versioned and audited (check BillSync's revision table).
+- Bilingual: I build and write in English and Indonesian.
+- Every project ships with a README, a setup guide, and a typecheck/test script.
 
-<p align="center">
+## Stats
 
-<img src="https://streak-stats.demolab.com?user=LazzianT&theme=tokyonight&hide_border=true"/>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LazzianT&show_icons=true&theme=transparent&hide_border=true)](https://github.com/LazzianT)
 
-</p>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=LazzianT&theme=transparent&hide_border=true)
 
----
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=LazzianT&theme=onedark&no-frame=true&no-bg=true&column=6)
 
-# 🏆 GitHub Trophy
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LazzianT&theme=github-light&hide_border=true&radius=6)](https://github.com/LazzianT)
 
-<p align="center">
+![Contribution snake](https://github.com/LazzianT/LazzianT/blob/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=LazzianT&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+## Contact
 
-</p>
-
----
-
-# 📂 Current Interests
-
-- Enterprise Web Applications
-- ERP Development
-- HR Management System
-- Procurement System
-- Machine Learning Dashboard
-- Docker Infrastructure
-- Linux Server
-- Reverse Proxy & SSL
-- Automation
-- REST API Development
-
----
-
-# 📚 Currently Learning
-
-- Kubernetes
-- Microservices
-- CI/CD Pipeline
-- AI Integration
-- Cloud Infrastructure
-
----
-
-# 💼 Favorite Technologies
-
-| Category | Technologies |
-|----------|--------------|
-| Backend | PHP, Node.js, Express |
-| Frontend | React, TypeScript, TailwindCSS |
-| Database | SQL Server, MySQL, MariaDB |
-| Infrastructure | Docker, Linux, Nginx |
-| Version Control | Git, GitHub |
-
----
-
-# 📫 Contact
-
-<p>
-
-<a href="https://github.com/LazzianT">
-<img src="https://img.shields.io/badge/GitHub-LazzianT-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<i>“Code with quality. Build with purpose.”</i>
-
-</p>
+`lazzian.alfalah03@gmail.com` — open to freelance and collaboration. @LazzianT
