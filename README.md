@@ -58,13 +58,7 @@ Day job: a React Native (Expo) mobile client for that same suite, plus SQL Serve
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LazzianT&show_icons=true&theme=transparent&hide_border=true)](https://github.com/LazzianT)
-
 ![GitHub streak](https://streak-stats.demolab.com/?user=LazzianT&theme=transparent&hide_border=true)
-
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=LazzianT&theme=onedark&no-frame=true&no-bg=true&column=6)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LazzianT&theme=github-light&hide_border=true&radius=6)](https://github.com/LazzianT)
 
 ![Contribution snake](https://github.com/LazzianT/LazzianT/blob/output/github-contribution-grid-snake-dark.svg)
 
